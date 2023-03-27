@@ -1,0 +1,16 @@
+table{
+	width: 100%;
+	border-collapse: collapse;   /* no hay separación entre celdas */
+	
+}
+th, td{
+	border:solid 3px white;
+    padding:5px;
+    font-family:"Fantasy";
+	font-size: 40px;
+}
+
+/*imagen de fondo */
+body {
+     background-image: url("stock-photo-empty-brown-wooden-planks-surface.jpg");
+}
